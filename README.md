@@ -2,7 +2,7 @@
 
 ---
 <p>I'm a software engineer focused on dev solutions.</p>
----
+
 
 <img src="https://media.giphy.com/media/l41JMXnXn4E7WQR8s/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
