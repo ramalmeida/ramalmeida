@@ -1,14 +1,10 @@
 ### 👋 Hi
 
 ---
-
-<img src="https://media.giphy.com/media/l41JMXnXn4E7WQR8s/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p>I'm a software engineer focused on dev solutions.</p>
-
-
 ---
 
+<img src="https://media.giphy.com/media/l41JMXnXn4E7WQR8s/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 Some skills:
 
@@ -32,7 +28,7 @@ Some skills:
 
 </br>
 
-<h2>Find me</h2>
+<h2>look there...</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/almeidaramon" alt="Linkedin" target="_blank">
