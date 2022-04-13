@@ -9,14 +9,17 @@
 Some skills:
 
 <dt>
-  <dd>NodeJs(Nestjs/loopback/express)</dd>
-  <dd>ES6</dd>
+  <dd>NodeJs(NestJs/loopback/express)</dd>
   <dd>VueJs</dd>
+  <dd>ReactJs</dd>
   <dd>Redis</dd>
   <dd>MongoDB</dd>
   <dd>Mysql</dd>
+  <dd>Bull</dd>
+  <dd>SQS</dd>
   <dd>RabbitMQ</dd>
   <dd>Microservices</dd>
+  <dd>Serverless</dd>
   <dd>Jest</dd>
   <dd>Typescript</dd>
   <dd>Git</dd>
