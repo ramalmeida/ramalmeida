@@ -10,14 +10,13 @@ Some skills:
 
 <dt>
   <dd>NodeJs(NestJs/loopback/express)</dd>
+  <dd>Angular</dd>
   <dd>VueJs</dd>
   <dd>ReactJs</dd>
   <dd>Redis</dd>
   <dd>MongoDB</dd>
   <dd>Mysql</dd>
   <dd>Bull</dd>
-  <dd>SQS</dd>
-  <dd>RabbitMQ</dd>
   <dd>Microservices</dd>
   <dd>Serverless</dd>
   <dd>Jest</dd>
@@ -27,6 +26,8 @@ Some skills:
   <dd>Python</dd>
   <dd>Docker</dd>
   <dd>AWS</dd>
+  <dd>GCP</dd>
+  <dd>AZURE</dd>
 </dt>
 
 </br>
